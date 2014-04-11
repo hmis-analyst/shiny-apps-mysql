@@ -1,4 +1,4 @@
-HMIS Data Analyst
+HMIS Data Analyst (MySQL)
 ==========================
 - **Version:**  -.-.-
 - **Date:**  10 April 2014
