@@ -3,7 +3,7 @@ HMIS Data Analyst
 - **Version:**  -.-.-
 - **Date:**  10 April 2014
 - **RDBMS:**  <a href=http://www.openhmis.org/>OpenHMIS</a> (MySQL)
-- **Administrators:**  Jason Rodriguez (Vanderbilt University); Brian Vogler (); Tony Zhang (Pathways Community Network Institute)
+- **Administrators:**  Jason Rodriguez (GA Dept of Community Affairs); Brian Vogler (); Tony Zhang (Pathways Community Network Institute)
 - **Contact:**  jsn.rgz@gmail.com; brian@vogler.com; tony.zhang@pcni.org
 
 Description
