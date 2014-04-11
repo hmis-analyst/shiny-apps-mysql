@@ -1,9 +1,9 @@
 HMIS Data Analyst
 ==========================
-- Version:
-- Date: 10 April 2014
-- RDBMS: OpenHMIS (MySQL) <http://www.openhmis.org/>
-- Contact: jsn.rgz@gmail.com; brian@vogler.com
+- **Version -.-.-**
+- **10 April 2014**
+- **RDBMS:** OpenHMIS (MySQL) <http://www.openhmis.org/>
+- **Contact:** jsn.rgz@gmail.com; brian@vogler.com
 
 Description
 ------------
